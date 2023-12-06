@@ -1,3 +1,4 @@
+<<<<<<< HEAD
 # Sistema de Gestión de Envíos - Backend
 
 Este repositorio contiene el backend de la plataforma de gestión de envíos de Coordinadora, diseñado para permitir a los usuarios registrar, rastrear y administrar envíos de paquetes a nivel nacional e internacional.
@@ -34,3 +35,8 @@ La base de datos ha sido normalizada hasta la Cuarta Forma Normal (4FN) para gar
 ![a7d7c433-8f3f-4fce-89b8-1b95df9b6be7](Coordinadora.drawio.png)
 
 ![41830f52-7328-42e8-9997-36bc8a23170b](drawSQL-coordinadora-export-2023-12-06 (1).png)
+=======
+![a7d7c433-8f3f-4fce-89b8-1b95df9b6be7](Coordinadora.drawio.png)
+
+![41830f52-7328-42e8-9997-36bc8a23170b](drawSQL-coordinadora-export-2023-12-06.png)
+>>>>>>> 4814efe9f6725b8cf75e0d1d47eedfd4cd3c558a
