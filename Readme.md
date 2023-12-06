@@ -5,15 +5,15 @@ Este repositorio contiene el backend de la plataforma de gestión de envíos de 
 ## Contenido del Repositorio
 
 1. **Diagrama Lógico de la Base de Datos:**
-   - Se encuentra en el archivo `Coordinadora.drawio.png`.
+   - Se encuentra en el archivo `Logico.png`.
    - Representa las entidades y relaciones clave en el sistema.
 
 2. **Diagrama Físico de la Base de Datos:**
-   - Se encuentra en el archivo `Coordinadora.drawio.png`.
+   - Se encuentra en el archivo `Fisico.png`.
    - Muestra la estructura concreta de las tablas, campos y relaciones.
 
 3. **Diagrama Relacional:**
-   - Se encuentra en el archivo `drawSQL-coordinadora-export-2023-12-06 (1).png`.
+   - Se encuentra en el archivo `Coordinadora.png`.
    - Proporciona una vista detallada de las relaciones entre las tablas de la base de datos.
 
 ## Base de Datos Normalizada
@@ -25,13 +25,13 @@ La base de datos ha sido normalizada hasta la Cuarta Forma Normal (4FN) para gar
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/Paola2005/PushUpBasesDeDatos.git
-   cd PushUpBasesDeDatos
+   git clone https://github.com/tuusuario/repo-envios-backend.git
+   cd repo-envios-backend
    ```
-
-   
-
-![a7d7c433-8f3f-4fce-89b8-1b95df9b6be7](Coordinadora.drawio.png)
-
+## Diagrama Logico
+   ![image-20231206103435441](Logico.png)
+## Diagrama Fisico
+   ![image-20231206103622288](Fisico.png)
+## Diagrama Relacional
 ![41830f52-7328-42e8-9997-36bc8a23170b](Coordinadora.png)
 
