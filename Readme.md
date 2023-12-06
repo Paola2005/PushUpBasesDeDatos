@@ -25,8 +25,8 @@ La base de datos ha sido normalizada hasta la Cuarta Forma Normal (4FN) para gar
 1. Clona este repositorio:
 
    ```bash
-   git clone https://github.com/tuusuario/repo-envios-backend.git
-   cd repo-envios-backend
+   git clone https://github.com/Paola2005/PushUpBasesDeDatos.git
+   cd PushUpBasesDeDatos
    ```
 
    
